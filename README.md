@@ -1,30 +1,3 @@
-
-Claude finished the response
-make a readme file for this repo :https://github.com/Marwann255/newshttps://github.com/Marwann255/news, i added Article Bottom Sheet View and Full Screen View, & search bar
-
-Searched the web
-Which news API does the app pull articles from?
-NewsAPI.org
-Created a file, read a file
-Here's the README, built around the three features you mentioned plus the NewsAPI.org integration. A few things worth checking before you commit it:
-
-Project structure section is a reasonable guess — adjust folder names if yours differ.
-API key setup step is generic since I don't know exactly how you're storing the key in this repo (constants file vs .env).
-Swap in real screenshots for the placeholder table once you've got them.
-Let me know if you'd like it tweaked — e.g., adding a badges row, a demo GIF section, or matching the tone of your Evently README more closely.
-
-
-Readme
-Document·MD
-
-
-Write a message…
-
-
-Claude is AI and can make mistakes.
-
-
-Readme · MD
 # News App 📰
 
 A Flutter news app that fetches live headlines and articles from [NewsAPI.org](https://newsapi.org/), with a clean, focused reading experience — search, quick-preview bottom sheets, and full-screen article details.
